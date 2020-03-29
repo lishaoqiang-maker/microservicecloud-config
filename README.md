@@ -1,0 +1,3 @@
+# microservicecloud-config
+microservicecloud-config demo
+仅仅是为了学习springCloud分布式配置中心
